@@ -1,0 +1,138 @@
+
+{
+    "softQuestion":[
+                   
+                    {"question": "What do you look forward to most in the next six weeks?",
+                    "id": "0",
+                    "answer": [
+                               
+                               ],
+                    "firstName":"John", "lastName":"Doe"},
+                    {"question": "What do you look forward to most in the next six weeks?",
+                    "id": "1",
+                    "answer": [
+                               { "answer": "hmmm Roadtrip hopefully"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"John", "lastName":"Doe"},
+                    {"question": "Do you prefer to call or text?",
+                    "id": "2",
+                    "answer": [
+                               { "answer": "call"} , {"answer": "Text"},{ "answer": "Both"}, {"answer": "Neither"}
+                               ],
+                    "firstName":"Anna", "lastName":"Smith"},
+                    {"question": "Comedy, Drama, Science Fiction, Animation, Action, or Horror?",
+                    "id": "3",
+                    "answer": [
+                               { "answer": "COMEDY"} , {"answer": "Drama"},{ "answer": "Science Fiction"}, {"answer": "Action"},
+                               {"answer": "Horror"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Are your parents married/separated/divorced, or other?",
+                    "id": "4",
+                    "answer": [
+                               { "answer": "MARRIED"} , {"answer": "Separated"},{ "answer": "Divorced"}, {"answer": "Other"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "What color are your eyes?",
+                    "id": "5",
+                    "answer": [
+                               { "answer": "BROWN"} , {"answer": "Blue"},{ "answer": "Green"}, {"answer": "Other"}
+                               ],
+                    "firstName":"John", "lastName":"Doe"},
+                    {"question": "Do you own slippers?",
+                    "id": "6",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Anna", "lastName":"Smith"},
+                    {"question": "What are you wearing right now?",
+                    "id": "7",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "What is your favorite Holiday?",
+                    "id": "8",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Where is your favorite place to be?",
+                    "id": "9",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"John", "lastName":"Doe"},
+                    {"question": "Where is your least favorite place to be?",
+                    "id": "10",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Anna", "lastName":"Smith"},
+                    {"question": "What did you fear was going to get you at night as a child?",
+                    "id": "11",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "What color is your bedroom?",
+                    "id": "12",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "How many pillows do you sleep with?",
+                    "id": "13",
+                    "answer": [
+                    
+                    ],
+
+                    "firstName":"John", "lastName":"Doe"},
+                    {"question": "What is your favorite season?",
+                    "id": "14",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Anna", "lastName":"Smith"},
+                    {"question": "How many states have you lived in?",
+                    "id": "15",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Do you like sushi?",
+                    "id": "16",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Do you like sushi?",
+                    "id": "17",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Do you like sushi?",
+                    "id": "18",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Do you like sushi?",
+                    "id": "19",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"},
+                    {"question": "Do you like sushi?",
+                    "id": "20",
+                    "answer": [
+                               { "answer": "NO"} , {"answer": "NO"},{ "answer": "NO"}, {"answer": "NO"}
+                               ],
+                    "firstName":"Peter", "lastName":"Jones"}
+                
+                    
+              ]
+}
+
